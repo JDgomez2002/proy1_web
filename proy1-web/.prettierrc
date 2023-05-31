@@ -1,0 +1,15 @@
+{
+  "width": 120,
+  "userTabs": 2,
+  "semi": false,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files":["**/*.css", "**/*.html"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ],
+  "jsxSingleQuote": false
+}
