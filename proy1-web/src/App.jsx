@@ -1,11 +1,11 @@
 import './App.css'
 
-let arr = [
-  1,
-  2,
-  3,
-  4,
-]
+// let arr = [
+//   1,
+//   2,
+//   3,
+//   4,
+// ]
 
 function App() {
   return (
