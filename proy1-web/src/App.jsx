@@ -1,18 +1,9 @@
+import Topbar from './fragments/Topbar'
 import './App.css'
-
-// let arr = [
-//   1,
-//   2,
-//   3,
-//   4,
-// ]
 
 function App() {
   return (
-    <div className="">
-      asd
-      <div>hello</div>
-    </div>
+    <Topbar />
   )
 }
 
