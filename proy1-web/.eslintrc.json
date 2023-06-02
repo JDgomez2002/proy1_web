@@ -18,7 +18,6 @@
   "plugins": ["react"],
   "rules": {
     "semi": ["error", "never"],
-    "max-len": ["error", 120],
     "react/react-in-jsx-scope": "off",
     "comma-dangle": ["error", "always"],
     "jsx-quotes": ["error", "prefer-double"],
