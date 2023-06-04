@@ -1,3 +1,5 @@
 import Topbar from './Topbar'
+import Portrait from './Portrait'
+import Body from './Body'
 
-export default Topbar
+export { Topbar, Portrait, Body, }

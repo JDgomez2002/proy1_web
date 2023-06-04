@@ -1,0 +1,29 @@
+.background {
+  width: 100%;
+  height: 2552px;
+  background-color: #323236;
+}
+
+.container {
+  margin: 0 auto 0;
+  padding: 96px 22px 0;
+  width: 1276px;
+  height: fit-content;
+}
+
+.flex {
+  display: flex;
+}
+
+.infoContainer {
+  width: 100%;
+  height: fit-content;
+}
+
+.textColumn {
+  width: 33%;
+}
+
+.image {
+  
+}

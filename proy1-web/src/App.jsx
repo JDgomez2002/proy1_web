@@ -1,9 +1,13 @@
-import Topbar from './fragments/Topbar'
+import { Topbar, Portrait, Body, } from './fragments'
 import './App.css'
 
 function App() {
   return (
-    <Topbar />
+    <>
+      <Topbar />
+      <Portrait />
+      <Body />
+    </>
   )
 }
 
@@ -24,5 +28,6 @@ Su código no puede tener errores para que cuente
 Deben proveer un script "lint"
 (10 puntos) Por implementar al menos un test visual sobre su código usando storybook
 
-(50 puntos) Por implementar Server Side Rendering en su aplicación (sin utilizar ninguna librería adicional) (hint)
+(50 puntos) Por implementar Server Side Rendering en su aplicación
+  (sin utilizar ninguna librería adicional) (hint)
 */
