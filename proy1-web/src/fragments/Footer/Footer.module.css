@@ -1,0 +1,111 @@
+.background {
+  width: 100%;
+  height: 523px;
+  background-color: #323236;
+  padding: 50px 0 96px;
+}
+
+.container {
+  margin: 0 auto 0;
+  padding: 0 22px 60px;
+  width: 1276px;
+  height: fit-content;
+  /* background: red; */
+}
+
+.textColumn {
+  width: 16.6%;
+  /* background: red; */
+}
+
+.textColumn h1 {
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  font-size: small;
+}
+
+.textColumn span {
+  color: rgba(255, 255, 255, 0.87);
+  font-family: 'Geologica', sans-serif;
+  font-weight: 100;
+  font-size: small;
+  margin: 5px 0;
+  height: fit-content;
+  width: fit-content;
+}
+
+.textColumn span:hover {
+  color: white;
+  font-weight: normal;
+  border-bottom: 1px solid white; 
+  cursor: pointer;
+}
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.boderBottom {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.24);
+  padding: 0 0 50px;
+}
+
+.fullWidth {
+  width: 100%;
+  height: fit-content;
+}
+
+.bottomBar {
+  padding: 40px 0 30px;
+}
+
+.logo {
+  color: rgba(255, 255, 255, 0.555);
+}
+
+.bottomBar span {
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  font-weight: normal;
+  margin-right: 40px;
+}
+
+.marginLeftAuto {
+  margin-left: auto;
+}
+
+.spanRow span {
+  color: rgba(255, 255, 255, 0.849);
+  font-family: 'Geologica', sans-serif;
+  font-weight: lighter;
+  font-size: small;
+  margin: 0 10px;
+}
+
+.spanRow span:hover {
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  font-weight: lighter;
+  font-size: small;
+  font-weight: normal;
+  /* text-decoration: underline; */
+  border-bottom: 1px solid white;
+  cursor: pointer;
+}
+
+.copyRight {
+  margin-top: 30px;
+  padding: 0 10px;
+}
+
+.copyRight span {
+  color: rgba(255, 255, 255, 0.692);
+  font-family: 'Geologica', sans-serif;
+  font-weight: lighter;
+  font-size: small;
+  /* margin: 0 10px; */
+}

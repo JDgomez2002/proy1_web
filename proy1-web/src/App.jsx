@@ -1,4 +1,9 @@
-import { Topbar, Portrait, Body, } from './fragments'
+import {
+  Topbar,
+  Portrait,
+  Body,
+  Footer,
+} from './fragments'
 import './App.css'
 
 function App() {
@@ -7,6 +12,7 @@ function App() {
       <Topbar />
       <Portrait />
       <Body />
+      <Footer />
     </>
   )
 }
