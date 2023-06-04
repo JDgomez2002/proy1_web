@@ -9,6 +9,11 @@
 
 <h4 align="center">Jose Daniel Gomez Cabrera 21429</h4>
 
+## Pagina original: DataGrip
+* Esta es una herramienta que me gusta mucho ya que escomo un VS code pero es un DBMS.
+* Me gusta mucho el estilo de JetBrains que utiliza en todas sus aplicaciones y paginas web.
+* https://www.jetbrains.com/datagrip
+
 ## Tecnologias Utilizadas
 
 * React
