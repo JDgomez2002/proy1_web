@@ -22,7 +22,7 @@
 * vite
   - Utilice vite para poder crear la pagina inicial de mi proyecto.
 * Material UI icons
-  - Utilice Material UI iocons para poder integrar todos los iconos de la pagina.
+  - Utilice Material UI icons para poder integrar todos los iconos de la pagina.
 * Prop-types
   - Utilice React Prop-types para poder establecer los valores predeterminados de mis components asi como sus respectivos tipos de variable
 * Yarn
