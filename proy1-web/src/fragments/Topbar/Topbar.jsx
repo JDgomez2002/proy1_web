@@ -23,10 +23,10 @@ function Topbar() {
             <a href="none"> Support </a>
             <a href="none"> Store </a>
             <div className={styles.iconsContainer}>
-              <SearchIcon style={{ fontSize: '20px', margin: '0 10px', }} />
-              <PersonIcon style={{ fontSize: '20px', margin: '0 10px', }} />
-              <ShoppingCartIcon style={{ fontSize: '20px', margin: '0 10px', }} />
-              <TranslateIcon style={{ fontSize: '20px', margin: '0 10px', }} />
+              <SearchIcon style={{ fontSize: '20px', margin: '0 10px', }} sx={{ '&:hover': { color: 'white', }, cursor: 'pointer', }} />
+              <PersonIcon style={{ fontSize: '20px', margin: '0 10px', }} sx={{ '&:hover': { color: 'white', }, cursor: 'pointer', }} />
+              <ShoppingCartIcon style={{ fontSize: '20px', margin: '0 10px', }} sx={{ '&:hover': { color: 'white', cursor: 'pointer', }, }} />
+              <TranslateIcon style={{ fontSize: '20px', margin: '0 10px', }} sx={{ '&:hover': { color: 'white', cursor: 'pointer', }, }} />
             </div>
           </div>
         </div>
